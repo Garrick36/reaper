@@ -1,4 +1,4 @@
-<REAPER_PROJECT 0.1 "6.28/win64" 1619461929
+<REAPER_PROJECT 0.1 "6.28/win64" 1619461767
   RIPPLE 0
   GROUPOVERRIDE 0 0 0
   AUTOXFADE 1
@@ -16,7 +16,7 @@
   PANMODE 3
   CURSOR 0
   ZOOM 6.6401664349453 0 0
-  VZOOMEX 6 150
+  VZOOMEX 6 225
   USE_REC_CFG 0
   RECMODE 1
   SMPTESYNC 0 30 100 40 1000 300 0 0 1 0 0
@@ -352,7 +352,7 @@
     MIDIOUT -1
     MAINSEND 1 0
     <FXCHAIN
-      WNDRECT 1002 464 643 345
+      WNDRECT 1002 464 716 352
       SHOW 0
       LASTSEL 3
       DOCKED 0
@@ -382,7 +382,7 @@
         70 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
       >
       JS_DIMS 489 266
-      FLOATPOS 24 52 505 305
+      FLOATPOS 0 0 0 0
       FXID {2C98DAE3-A74F-4A17-B920-AF1F560BDBF5}
       WAK 0 0
       BYPASS 0 0 0
